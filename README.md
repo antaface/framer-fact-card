@@ -8,8 +8,8 @@ Built entirely by a designer (not a dev) who wanted to make something fun, weird
 
 ## 🌐 Demo
 
-- 🧪 [Live Framer Site](https://your-framer-site-link.com)
-- 📖 [Substack Post – Coming soon]
+- 🧪 [Live Framer Site](https://antarabasu.com/)
+- 📖 [Substack Post](https://open.substack.com/pub/anterface/p/i-taught-my-portfolio-to-speak?r=5d7yh1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 ---
 
