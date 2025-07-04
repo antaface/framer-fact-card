@@ -8,7 +8,7 @@ Built entirely by a designer (not a dev) who wanted to make something fun, weird
 
 ## 🌐 Demo
 
-- 🧪 [Live Framer Site](https://antarabasu.com/)
+- 🧪 [Live Website (It's in the footer!)](https://antarabasu.com/)
 - 📖 [Substack Post](https://open.substack.com/pub/anterface/p/i-taught-my-portfolio-to-speak?r=5d7yh1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 ---
